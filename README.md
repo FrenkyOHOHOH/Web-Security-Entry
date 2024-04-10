@@ -37,7 +37,7 @@ Web安全入门靶场，此项目为靶机源码，欢迎交流学习，欢迎�
 | 题目名称           | dockerhub镜像               | 知识点                                                 |
 | ------------------ | --------------------------- | ------------------------------------------------------ |
 | PHP反序列化初识    | fr3nky/adv-ezunser:v0       | PHP反序列化                                            |
-| Pickle反序列化初识 | fr3nky/adv-pickle:v1        | 任意文件读取，flask session伪造，python pickle反序列化 |
+| Pickle反序列化初识 | fr3nky/adv-pickle:v2        | 任意文件读取，flask session伪造，python pickle反序列化 |
 | suid提权           | fr3nky/adv-suid:v0          | rce，suid读文件                                        |
 | goSession伪造      | fr3nky/adv-gosess:v1        | gin session伪造                                        |
 | 简单的绕过         | fr3nky/adv-bypassdisfunc:v0 | disable_function绕过读文件                             |
