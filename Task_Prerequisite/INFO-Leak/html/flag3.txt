@@ -1,0 +1,1 @@
+now you know src.tar.gz, this is your flag3:flag3{3}

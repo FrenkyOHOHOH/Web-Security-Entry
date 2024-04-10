@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  webhttp:
+    build: .
+    image: http
+    restart: always
+    ports:
+      - "8081:80"
