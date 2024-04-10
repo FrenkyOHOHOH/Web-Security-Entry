@@ -1,0 +1,5 @@
+deb http://mirrors.tencent.com/debian-archive/debian stretch main
+#deb http://mirrors.tencent.com/debian-archive/debian stretch-backports main
+#deb http://mirrors.tencent.com/debian-archive/debian stretch-backports-sloppy main
+#deb http://mirrors.tencent.com/debian-archive/debian stretch-proposed-updates main
+deb http://mirrors.tencent.com/debian-archive/debian-security stretch/updates main
