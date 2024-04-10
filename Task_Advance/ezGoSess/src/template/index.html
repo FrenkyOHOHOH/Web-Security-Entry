@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Simple Navi</title>
+    </head>
+    <body>
+        <h1>My easy go web project</h1>
+        <ul>
+        {{range $link := .Links}}
+            <li><a href="{{$link}}">{{$link}}</a></li>
+        {{end}}
+        </ul>
+    </body>
+</html>
